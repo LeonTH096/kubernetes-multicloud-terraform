@@ -1,3 +1,12 @@
+> **⚠️ This project has been superseded by [devops-project-2026](https://github.com/LeonTH096/devops-project-2026).**
+>
+> This repo used custom Terraform modules written from scratch — an approach I moved away from
+> after working with official community modules (Babenko `terraform-aws-modules`, Azure Verified Modules)
+> in production. The new project uses battle-tested official modules, Terragrunt, Helm, and
+> production-grade patterns that reflect how senior engineers actually build infrastructure.
+>
+> **This repository is archived and no longer maintained.**
+
 # Kubernetes Multi-Cloud Infrastructure
 
 Production-grade Kubernetes infrastructure deployed across **Azure (AKS)** and **AWS (EKS)** using Terraform, demonstrating cloud-agnostic DevOps practices and multi-cloud expertise.
